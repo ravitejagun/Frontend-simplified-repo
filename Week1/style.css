@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    height: 150px;
+    border: 2px solid grey;
+    align-items: center;
+    margin:  150px auto;
+}
+.big-container{
+    width: 100px;
+    height: 120px;
+    border: 2px solid rgb(255, 147, 47);
+    
+}
+.small-container{
+    display: flex;
+    gap: 10px;
+    /* align-items: center; */
+}
+.box{
+    width: 50px;
+    height: 75px;
+    border: 2px solid burlywood;
+    /* margin: 20px; */
+}
