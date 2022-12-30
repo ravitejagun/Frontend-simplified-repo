@@ -70,7 +70,7 @@ margin: 24px;
 
 }
 .row{
-    display: flex;
+display: flex;
 justify-content: center;
 width: 100%;
 max-width: 1000px;
@@ -98,3 +98,4 @@ max-width: 1000px;
     width: 30%;
     margin: 20px;    
 }
+/* end of css flex box */
